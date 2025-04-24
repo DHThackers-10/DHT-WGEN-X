@@ -47,9 +47,10 @@ Enter the output filename (e.g., mywordlist.txt)
 
 Your wordlist will be saved in the same directory.
 
+## screenshot 
+![Screenshot_20250425-003356](https://github.com/user-attachments/assets/0c59bbd8-d5c8-4718-88c0-f89352c219a1)
 
-
-🖥️ Example Output
+## 🖥️ Example Output
 
 If you enter:
 
@@ -75,14 +76,14 @@ cbc
 And save them to your output file!
 
 
-📽️ Demo Video
+## 📽️ Demo Video
 
 Watch the full video tutorial here:
 ▶️ [Insert YouTube Link Here]
 
 
 
-🌐 Join the Community
+## 🌐 Join the Community
 
 Stay updated, ask questions, and connect with other cybersecurity enthusiasts:
 
@@ -97,13 +98,13 @@ GitHub Profile: [https://github.com/DHThackers-10]
 YouTube channel must subscribe : .[https://www.youtube.com/@DHT-HACKERS_10]
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests, issues, and feature suggestions are always welcome.
 Fork the repo, create a new branch, and submit your PR!
 
 
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute it freely but don't remove DHT-YOUTUBE CHANNEL REDIRECTION FROM SCRIPT.
